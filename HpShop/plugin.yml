@@ -1,0 +1,8 @@
+name: HpShop
+version: "마장V1.0.0"
+api: [3.0.0-ALPHA10]
+author: majang
+main: HpShop\HpShop
+
+
+
