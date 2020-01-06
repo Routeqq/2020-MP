@@ -1,0 +1,14 @@
+name: InvenClear
+version: "마장V1.0.0"
+api:
+  - 3.0.0
+  - 3.0.1
+  - 3.0.2
+  - 3.0.3
+  - 4.0.0
+author: Majang
+main: InvenClear\InvenClear
+
+commands:
+  인벤:
+   description: /인벤 초기화 닉네임 | /인벤 초기화 - 본인 인벤토리 초기화
